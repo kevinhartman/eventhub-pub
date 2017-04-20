@@ -1,3 +1,3 @@
 # eventhub-pub
 
-A simple Java program for sending stdin to Azure Event Hub.
+A simple Azure Event Hub test client that pushes out a new event for each line in stdin.
